@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "serverrules",
+    "name": "ServerRules",
+    "description": "A mod that enforces players reading server rules before they are allowed to play on a server",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://minecraft.curseforge.com/projects/server-rules",
+    "updateUrl": "https://minecraft.curseforge.com/projects/server-rules/files",
+    "authorList": [
+      "DaemonUmbra"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+    ]
+  }
+]
